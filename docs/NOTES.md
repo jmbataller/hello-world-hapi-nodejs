@@ -1,4 +1,18 @@
+* Simple REST API
 
+https://github.com/yldio/tc-web-logging-node
+
+* Simple REST Client
+
+https://github.com/yldio/capi-client
+
+* JSHINT Defaults
+
+https://github.com/yldio/yld-style-guide/blob/master/.jshintrc
+
+
+
+SOME NOTES
 
 ecmascript
 
